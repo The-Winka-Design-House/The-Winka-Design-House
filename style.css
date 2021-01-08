@@ -244,7 +244,7 @@ a {
   background: #FFD700;
 }
 .home-section {
-  background: url(../images/back-pic-main.png);
+  background: url(back-pic-main.png);
   background-size: cover;
   }
 
@@ -389,7 +389,7 @@ a {
    Newsletter section
 -----------------------------------------*/
 #newsletter {
-    background: url('../images/newsletter-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('newsletter-bg.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
@@ -451,7 +451,7 @@ a {
 }
 
 #blog .blog-thumb:hover {
-  background: url('../images/blog-thumb.jpg');
+  background: url('blog-thumb.jpg');
    -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
@@ -489,7 +489,7 @@ a {
 /* blog single page */
 
 #blog-header {
-    background: url('../images/blog-header-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('blog-header-bg.jpg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: bottom center;
@@ -652,7 +652,7 @@ a {
     Price section
 -----------------------------------------*/
 #price {
-  background: url('../images/price-bg.jpg') 50% 0 repeat-y fixed;
+  background: url('price-bg.jpg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -826,7 +826,7 @@ contact
 
 #contact-us .contact-form {
   padding: 80px;
-  background-image: url("C:/Users/Binika/Desktop/Aarya Atuff/templatemo_487_fitness/templatemo_487_fitness/images/newsletter-bg.jpg");
+  background-image: url("newsletter-bg.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
